@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">LanguageAdapter</string>
+
+    <string name="LanguageSettingActivity">LanguageSettingActivity</string>
+    <string name="TestOtherActivity">TestOtherActivity</string>
+    <string name="MainActivity">MainActivity</string>
+
+    <string name="InternationalAdaptation">International   Adaptation</string>
+
+
+
+
+</resources>

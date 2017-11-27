@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="InternationalAdaptation">International Adaptation</string>
+
+    <string name="LanguageSettingActivity">LanguageSettingActivity</string>
+    <string name="TestOtherActivity">TestOtherActivity</string>
+    <string name="MainActivity">MainActivity</string>
+
+</resources>

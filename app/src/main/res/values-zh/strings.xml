@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="InternationalAdaptation">国际化适配</string>
+
+    <string name="LanguageSettingActivity">语言设置</string>
+    <string name="TestOtherActivity">测试其他Activity</string>
+    <string name="MainActivity">主要的Activity</string>
+
+
+</resources>
